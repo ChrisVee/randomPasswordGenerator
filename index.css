@@ -1,0 +1,33 @@
+body {
+    margin: 52;
+    background: #1F2937;
+    color: white
+}
+
+.passwords {
+    padding-top: 25px;
+    justify-content: space-between;
+}
+
+.passwords span {
+    color: #55F991;
+    border: 2px solid white;
+    padding: 5px;
+
+}
+
+button {
+    padding: 10px;
+    background: #55F991;
+    color: white
+
+}
+
+.hero {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+h1 span {
+    color: #55F991;
+}
